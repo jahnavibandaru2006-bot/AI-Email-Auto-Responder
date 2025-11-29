@@ -1,0 +1,48 @@
+email,label
+"Thank you for your help on this task. Really appreciate your support.","positive"
+"The meeting went really well. Thanks for arranging everything.","positive"
+"I'm happy with the progress so far. Great work.","positive"
+"Your assistance has been fantastic. Thank you!","positive"
+"Thank you for the prompt update. Much appreciated.","positive"
+
+"I need the updated report urgently. Please send it immediately.","urgent"
+"This requires immediate attention. Kindly respond ASAP.","urgent"
+"Please resolve this issue as soon as possible.","urgent"
+"We need your approval urgently to proceed further.","urgent"
+"This matter cannot wait, please respond immediately.","urgent"
+
+"I am unhappy with the delay. This is getting frustrating.","negative"
+"The service provided has been disappointing.","negative"
+"This is unacceptable, I expected better communication.","negative"
+"I am very dissatisfied with how this has been handled.","negative"
+"The mistake has caused serious inconvenience.","negative"
+
+"Please share the meeting schedule for tomorrow.","neutral"
+"Kindly send me the file when possible.","neutral"
+"Let me know the details once you have them.","neutral"
+"Can you provide the updated list?","neutral"
+"Please update me on the status.","neutral"
+
+"We need clarification on the new policy changes.","neutral"
+"Could you explain the next steps clearly?","neutral"
+"Let me know if there are any changes in the plan.","neutral"
+"Please confirm your availability.","neutral"
+"Kindly provide more information regarding this.","neutral"
+
+"I appreciate your hard work on the project.","positive"
+"This is great progress, keep it up!","positive"
+"The results are impressive. Well done.","positive"
+"Thank you for delivering the work earlier than expected.","positive"
+"I want to express my gratitude for your efforts.","positive"
+
+"This delay is causing issues on our end.","negative"
+"I am extremely disappointed with the service.","negative"
+"There are several mistakes in the document.","negative"
+"This problem has been ignored for too long.","negative"
+"I'm unhappy with the repeated delays.","negative"
+
+"We need this information urgently to continue.","urgent"
+"Please treat this as a high-priority request.","urgent"
+"This needs to be fixed immediately.","urgent"
+"Respond ASAP, this is time-sensitive.","urgent"
+"Action required immediately.","urgent"
